@@ -1,6 +1,6 @@
 ### Hey there, friend!
 
-I have almost a decade of working experience, but am currently finishing my Master's in Artificial Intelligence at Duke.
+I have almost a decade of working experience, but am currently finishing my Master's in Artificial Intelligence.
 
 - 🔭 Forever searching for more scifi stories that celebrate the power and potential of technology
 - 🌱 Hoping to use technology for mental health support and healing
