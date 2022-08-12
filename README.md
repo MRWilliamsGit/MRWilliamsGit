@@ -1,6 +1,6 @@
 ### Hey there, friend!
 
-I have almost a decade of working experience, but am currently finishing my Master's in Artificial Intelligence.
+After almost a decade of working experience, I have earned my Master's in Artificial Intelligence and am looking forward to pivoting into using ML for social good.
 
 - 🔭 Forever searching for more scifi stories that celebrate the power and potential of technology
 - 🌱 Hoping to use technology for mental health support and healing
